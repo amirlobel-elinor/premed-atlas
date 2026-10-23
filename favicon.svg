@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <title>Pa — Premed Atlas</title>
+  <rect y="5" width="128" height="123" rx="24" fill="#4935a1"/>
+  <rect width="128" height="122" rx="24" fill="#7360e5"/>
+  <rect x="9" y="9" width="110" height="104" rx="16" fill="none" stroke="#e3dcff" stroke-opacity=".65" stroke-width="1.3"/>
+  <path d="M24 19v12m-6-6h12" fill="none" stroke="#80e3ed" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="m100 17 2.4 6.6L109 26l-6.6 2.4L100 35l-2.4-6.6L91 26l6.6-2.4Z" fill="#ffd16b"/>
+  <text x="63" y="87" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="-3.4">Pa</text>
+  <text x="64" y="103" text-anchor="middle" fill="#e3dcff" font-family="Arial,Helvetica,sans-serif" font-size="6.5" font-weight="700" letter-spacing="1.15">PREMED ATLAS</text>
+</svg>
